@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Website](https://www.titanfi.com/)
+- [Website](https://www.titanfi.xyz/)
 - [Whitepaper](https://github.com/GentlemanDeveloper/TitanFi/blob/main/titanfi-whitepaper.pdf)
 - [Techpaper](https://github.com/GentlemanDeveloper/TitanFi/blob/main/titanfi-techpaper.pdf)
 - [Twitter/X](https://x.com/TitanFi_sol)
@@ -484,6 +484,6 @@ MIT License - see LICENSE file for details
     title={TitanFi: Evolutionary Reinforcement Learning for LLMs},
     author={GentlemanDeveloper},
     year={2025},
-    url={https://www.titanfi.com/}
+    url={https://www.titanfi.xyz/}
 }
 ```
